@@ -1,6 +1,6 @@
 ## Student Info
 
-Victor Astinov, 20851407 vastinov
+Victor Astinov
 
 ## Build Info
 
@@ -9,13 +9,12 @@ Windows 10 Home, Version 10.0.19045 Build 19045
 Kotlin Version: 1.8.20, targeting JVM
 
 ## Additional Application Details
-- App icon is custom as a for fun item not in the specification
 - Default image dimensions is to have a width of 300, and to preserve the ratio of the image to calculate the height
 - Default window dimensions are 800x600, with minimum usable dimensions of 600x400
 - In Tile Mode, transformations are disabled. Images are added left to right, and added on the next row if they don't fit. A scroll bar appears if there are too many rows
 - In Cascade mode you can partially, but not fully, drag an image offscreen. This is intended as a way for the user to make the underlying pane a bit bigger. Only applicable to the right and bottom of the table. The spec does not require handling dragging images outside the table so this is what I decided
-- Only certain image formats are allowed to be selected from the file explorer, these are the same as the image types in a1 (png, jpg, bmp)
-- MVC model uses bindings with InvalidationListeners as seen in class
+- Only certain image formats are allowed to be selected from the file explorer (png, jpg, bmp)
+- MVC model uses bindings with InvalidationListeners
 - Any clicked on image will have a blue outline to visually indicate that it is selected
 
 ## Resources
