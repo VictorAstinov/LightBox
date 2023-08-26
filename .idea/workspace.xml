@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28a57ddb-cb58-470a-b055-60b3c2a96578" name="Changes" comment="README update" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/a1starter">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/a1starter">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QOMaHagHadQip36MiydmIigLk9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Owner/Documents/uwaterloo/projects/LightBox",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="a1[run]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/a1" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28a57ddb-cb58-470a-b055-60b3c2a96578" name="Changes" comment="" />
+      <created>1685220237160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685220237160</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1685221624310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685221624329</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Deleting sample code">
+      <created>1685221778672</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685221778672</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creating file features, adding test folder">
+      <created>1685305649681</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685305649682</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Mostly finished requirements 1, 2, 4, 5">
+      <created>1685402777380</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685402777381</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Rename">
+      <created>1685405696406</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685405696406</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding delete feature">
+      <created>1685488704655</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685488704656</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Adding rename, move features">
+      <created>1685509037456</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685509037456</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Removed need of directoryStack, using getParent() instead">
+      <created>1685511252063</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685511252063</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add some basic rename verification, need to test app">
+      <created>1685512574442</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1685512574442</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added some menu items">
+      <created>1685566349448</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685566349448</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Minor fixes, adding menu items for the rest of the toolbar items, adding README">
+      <created>1685570760892</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1685570760892</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Adding disabling of Toolbar/Menu items depending on the selected directory/item. Terrible coding style too :)">
+      <created>1685604129971</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1685604129971</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Code refactor">
+      <created>1685636928664</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1685636928664</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Code refactor">
+      <created>1685687292839</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1685687292839</updated>
+    </task>
+    <task id="LOCAL-00015" summary="README update">
+      <created>1685736372877</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1685736372877</updated>
+    </task>
+    <task id="LOCAL-00016" summary="README update">
+      <created>1693065472657</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1693065472657</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="Deleting sample code" />
+    <MESSAGE value="Creating file features, adding test folder" />
+    <MESSAGE value="Mostly finished requirements 1, 2, 4, 5" />
+    <MESSAGE value="Rename" />
+    <MESSAGE value="Adding delete feature" />
+    <MESSAGE value="Adding rename, move features" />
+    <MESSAGE value="Removed need of directoryStack, using getParent() instead" />
+    <MESSAGE value="Add some basic rename verification, need to test app" />
+    <MESSAGE value="Added some menu items" />
+    <MESSAGE value="Minor fixes, adding menu items for the rest of the toolbar items, adding README" />
+    <MESSAGE value="Adding disabling of Toolbar/Menu items depending on the selected directory/item. Terrible coding style too :)" />
+    <MESSAGE value="Code refactor" />
+    <MESSAGE value="README update" />
+    <option name="LAST_COMMIT_MESSAGE" value="README update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.nio.file.NoSuchFileException" package="java.nio.file" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
